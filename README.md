@@ -18,3 +18,4 @@ To install all the above modules we can just run “set_up.py”.
 
 
 To open GUI Just run interface.py
+To avoid crashes and errors while running program please open the entire folder in the editor,so that paths for fetching data will be unambiguous.
